@@ -1,86 +1,12 @@
 cff-version: 1.2.0
-message: "If you use this code or analysis in your research, please cite it as below."
 title: "Visual Hypothesis Testing: The Effect of Visualisation on the Statistical Power of the Lineup Protocol"
 abstract: >
   Code and analysis accompanying the report investigating the impact of
   visualisation choice on the statistical power of the lineup protocol.
-  Using the hypothesis test for equal variance, lineups of boxplots, density
-  plots, violin plots and absolute density plots were constructed at two effect
-  sizes and administered to participants from the School of Mathematics,
-  University of Edinburgh.
 type: software
 authors:
   - family-names: "Duncan"
-    given-names: "Matthew"
-    affiliation: "School of Mathematics, University of Edinburgh"
   - family-names: "Fan"
-    given-names: "Frank"
-    affiliation: "School of Mathematics, University of Edinburgh"
   - family-names: "Theocharous"
-    given-names: "Loizos"
-    affiliation: "School of Mathematics, University of Edinburgh"
-date-released: "2025-01-01"  # TODO: replace with actual release date
-version: "1.0.0"             # TODO: update if versioned
-license: MIT                 # TODO: confirm or replace with your chosen license
-repository-code: "https://github.com/TODO/TODO"  # TODO: replace with actual repo URL
-keywords:
-  - visual hypothesis testing
-  - lineup protocol
-  - statistical power
-  - data visualisation
-  - variance testing
-  - logistic regression
-  - R
-  - ggplot2
-references:
-  - type: article
-    title: "Statistical inference for exploratory data analysis and model diagnostics"
-    authors:
-      - family-names: "Buja"
-        given-names: "A."
-      - family-names: "Cook"
-        given-names: "D."
-      - family-names: "Hofmann"
-        given-names: "H."
-      - family-names: "Lawrence"
-        given-names: "M."
-      - family-names: "Lee"
-        given-names: "E.-K."
-      - family-names: "Swayne"
-        given-names: "D. F."
-      - family-names: "Wickham"
-        given-names: "H."
-    journal: "Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences"
-    volume: 367
-    issue: 1906
-    start: 4361
-    end: 4383
-    year: 2009
-  - type: article
-    title: "Graphical perception: Theory, experimentation, and application to the development of graphical methods"
-    authors:
-      - family-names: "Cleveland"
-        given-names: "W. S."
-      - family-names: "McGill"
-        given-names: "R."
-    journal: "Journal of the American Statistical Association"
-    volume: 79
-    issue: 387
-    start: 531
-    end: 554
-    year: 1984
-  - type: article
-    title: "Validation of visual statistical inference, applied to linear models"
-    authors:
-      - family-names: "Majumder"
-        given-names: "M."
-      - family-names: "Hofmann"
-        given-names: "H."
-      - family-names: "Cook"
-        given-names: "D."
-    journal: "Journal of the American Statistical Association"
-    volume: 108
-    issue: 503
-    start: 942
-    end: 956
-    year: 2013
+date-released: "2026-03-16"  
+repository-code: "https://github.com/MDuncan13/VHTProject.git" 
